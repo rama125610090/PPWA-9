@@ -1,6 +1,3 @@
-<!-- Muat library waktu proses AMP-with-Shadow-DOM secara asinkron. -->
-<script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
-
 var filesToCache =  [
   '/',
   'style/main.css',
